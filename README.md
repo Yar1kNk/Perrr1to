@@ -104,6 +104,13 @@
 
 ---
 
+## 🔧 Projects
+
+- **[autotests-ui](https://github.com/Yar1kNk/autotests-ui)** - UI automation
+- **[Webshop-mobile-testing-manual](https://github.com/Yar1kNk/Webshop-mobile-testing-manual)** - Manual testing
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yar1kNk/Yar1kNk/output/github-snake-dark.svg" alt="snake gif">
 </div>
