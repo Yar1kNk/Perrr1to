@@ -21,7 +21,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
   <img width="12" />
-  <img src="https://testit.software/themes/ino-testit/assets/images/footer/logo-footer.svg" title="test-it" alt="test-it" width="40" height="40"/>&nbsp;
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp;
   <img width="12" />
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp;
   <img width="12" />
