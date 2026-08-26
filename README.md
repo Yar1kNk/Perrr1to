@@ -104,6 +104,7 @@
 ## 🔧 Projects
 
 - **[autotests-ui](https://github.com/Yar1kNk/autotests-ui)** - UI automation
+- **[autotests-api](https://github.com/Yar1kNk/autotests-api)** - API automation
 - **[Webshop-mobile-testing-manual](https://github.com/Yar1kNk/Webshop-mobile-testing-manual)** - Manual testing
 
 ---
